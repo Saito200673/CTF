@@ -1,1 +1,1 @@
-MY FIRST CTF AND MY WRITE UP FOR IT  
+Writeup for my inter college CTF
